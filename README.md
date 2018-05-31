@@ -1,6 +1,8 @@
 This project was bootstrapped with Create React App for Chrome Extension.
 
-## Table of Contents
+## Screenshot, when you click on the extension in Chrome
+![Screenshot](https://s20.postimg.cc/na5j4c80t/react.png)
+
 
 ## Folder Structure
 
